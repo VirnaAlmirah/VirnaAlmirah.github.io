@@ -38,6 +38,7 @@ nav {
     top: 0;
     background: #ffffff;
     z-index: 1;
+    border-bottom: 1px solid #051049;
 }
 
 nav ul {
