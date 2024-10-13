@@ -1,16 +1,16 @@
 * {
-   padding:0;
-   margin:0;
-   font-family: sans-serif;
-}
-a {
-    color: inherit;
-} 
-.medsos {
-    padding: 5px 0;
-    background: color #148f77;
-}
-.medsos ul li {
-    display: inline-block;
-    color: #fff;
-}
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+ }
+ a {
+     color: inherit;
+ } 
+ .medsos {
+     padding: 5px 0;
+     background: color #148f77;
+ }
+ .medsos ul li {
+     display: inline-block;
+     color: #fff;
+ }
