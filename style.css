@@ -60,19 +60,7 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: underline;
-    
+
 }
     
-    font-family: sans-serif;
- }
- a {
-     color: inherit;
- } 
- .medsos {
-     padding: 5px 0;
-     background: color #148f77;
- }
- .medsos ul li {
-     display: inline-block;
-     color: #fff;
- }
+    
