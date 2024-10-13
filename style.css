@@ -98,3 +98,14 @@ deskripsi {
     font-weight: bold;
     font-family: 'comic sans-ms';
     color: #051049
+}
+
+a.tbl-biru {
+    background: #026ba1;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color:#ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
