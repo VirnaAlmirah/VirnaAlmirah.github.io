@@ -91,7 +91,7 @@ h3 {
     color:#051049;
     width: 100%;
     line-height: 50px;
-{
+}
 
 deskripsi {
     font-size: 20px;
@@ -124,6 +124,11 @@ a.tbl-pink {
     cursor: pointer;
     font-weight: bold;
 }
+
+a.tbl-biru:hover {
+    background: #026ba1;
+    text-decoration: none;
+}   
 
 p {
     margin: 10px 0px 10px 0px;
