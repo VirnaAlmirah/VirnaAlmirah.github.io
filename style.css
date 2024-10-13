@@ -109,3 +109,17 @@ a.tbl-biru {
     cursor: pointer;
     font-weight: bold;
 }
+
+a.tbl-biru:hover {
+    background: #ff1493;
+    text-decoration: none;
+}
+
+a.tbl-pink {
+    background: #ff1493;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color:#ffffff;
+    cursor: pointer;
+    font-weight: bold;
