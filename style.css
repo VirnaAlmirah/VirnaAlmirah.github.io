@@ -123,3 +123,9 @@ a.tbl-pink {
     color:#ffffff;
     cursor: pointer;
     font-weight: bold;
+}
+
+p {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+}
