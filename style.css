@@ -1,15 +1,5 @@
-body {
-  background-color: antiquewhite;
-  background-image: url(cat.jpg);
-  background-repeat: no-repeat;
-  background-position: full;
- 
-div {}
-. first{
-   background-color: aquamarine;
-
-
-. second {
-    background-color: deeppink;
-=======
+* {
+   padding:0;
+   margin:0;
+   font-family: sans-serif
   
