@@ -7,10 +7,10 @@ a {
     color: inherit;
 } 
 .medsos {
-    padding:5px 0;
-    background-color:#4fe2e8;
+    padding: 5px 0;
+    background: color #148f77;
 }
 .medsos ul li {
     display: inline-block;
-    color: aliceblue;
+    color: #fff;
 }
