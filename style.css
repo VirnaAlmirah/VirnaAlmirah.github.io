@@ -3,8 +3,13 @@
    margin:0;
    font-family: sans-serif
 }
+a {
+    color: inherit;
 .medsos {
     padding:5px 0;
     background-color:#4fe2e8;
 }
-  
+.medsos ul li {
+    display: inline-block;
+    color: aliceblue;
+}
