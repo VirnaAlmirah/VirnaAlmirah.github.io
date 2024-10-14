@@ -137,3 +137,32 @@ p {
     padding: 10px 0px 10px 0px;
 }
 
+.tengah {
+    text-align: center;
+    width: 100%;
+}
+
+.favorite-list{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kartu-favorite {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.kartu-favorite img {
+    width: 80%;
+    border-radius: 50%;
+}
+
+.kartu-favorite p {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color:#051049
+}
