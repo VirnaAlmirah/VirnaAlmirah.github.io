@@ -223,4 +223,12 @@ nav .menu ul li {
     display: inline-block;
     float: none;
 }
+
+section {
+    display: block;
+}
+
+section img {
+    display: block;
+}
     
