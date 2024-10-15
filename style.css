@@ -193,5 +193,11 @@ h3 {
     color:#051049;
     width: 100%;
     line-height: 50px;
-    
+}
+
+#copy right {
+    text-align: center;
+    width: 100%;
+    padding: 50px 0px 50px 0px;
+    margin-top: 50px;
 }
