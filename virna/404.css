@@ -1,14 +1,29 @@
+* {
+    box-sizing: border-box
+    margin: 0;
+    padding: 0;
+}
 body{
+    height: 100vh;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    font-family: sans-serif;
-    font-size: calc(4em + 10vw);
+    flex-direction: column;
+    font-family: "Montserrat";
+    color:black;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.wrapper h1 {
+    font-size: 3rem;
+    margin-top: 20px;
+}
+.wrapper .massage {
+    font-size: 1.5rem;
+    padding: 20px;
+    width: 60%;
     text-align: center;
-    color: white;
-    background-image:
-    ba
-
 }
