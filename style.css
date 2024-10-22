@@ -219,5 +219,7 @@ nav .menu{
     margin: 0;
 }
 
-
-
+.title-not-found {
+    color: darkgray;
+    text-align: center;
+}
