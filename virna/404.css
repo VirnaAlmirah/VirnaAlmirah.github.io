@@ -1,29 +1,47 @@
 * {
-    box-sizing: border-box
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins";
 }
-body{
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    font-family: "Montserrat";
-    color:black;
+
+.page_404
+{
+    padding: 40px 0;
+    background: white;
+    font-family: "poppins";
 }
-.wrapper {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+
+.page_404 img
+{
+    width: 100%;
 }
-.wrapper h1 {
-    font-size: 3rem;
-    margin-top: 20px;
+
+.four_zero_four_bg
+{
+    background: url('./bg.gif');
+    height: 400px;
+    background-position: center;
 }
-.wrapper .massage {
-    font-size: 1.5rem;
-    padding: 20px;
-    width: 60%;
-    text-align: center;
+
+h1{
+    font-size: 80px;
+}
+
+h3{
+    font-size: 80px;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    background: #39ac31;
+    display: inline-block;
+}
+
+.content_box_404
+{
+    margin-top: -50px;
 }
