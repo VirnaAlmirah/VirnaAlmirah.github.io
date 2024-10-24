@@ -202,22 +202,21 @@ h3 {
     margin-top: 50px;
 }
 
-@media screen {
+@media screen and (max-width: 991.98px) {
     .wrapper {
         width: 90%;
-}
+    }
 
     .logo a {
         display: block;
         width: 100%;
         text-align: center;
     }
-}
 
-nav .menu{
-    width: 100%;
-    margin: 0;
-}
+    nav .menu {
+        width: 100%;
+        margin: 0;
+    }
 
 .title-not-found {
     color: darkgray;
@@ -228,6 +227,20 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+}
+nav .menu ul {
+    text-align: center;
+    margin: auto;
+    line-height: 60px;
+}
+
+nav .menu ul line-height {
+    display: inline-block;
+    float: none;
+}
+
+section {
+    display: block;
 }
 
 .container {
