@@ -202,10 +202,10 @@ h3 {
     margin-top: 50px;
 }
 
-@media screen and (max-width: 991.98px) {
+@media screen {
     .wrapper {
         width: 90%;
-    }
+}
 
     .logo a {
         display: block;
@@ -223,3 +223,21 @@ nav .menu{
     color: darkgray;
     text-align: center;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+
+
+
