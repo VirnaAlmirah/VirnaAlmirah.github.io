@@ -16,4 +16,9 @@ h1{
     font-weight: 700 !important;
     background: url(/404\ error.jpg);
     background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+h2{
+    
 }
