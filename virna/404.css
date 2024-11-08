@@ -1,5 +1,44 @@
-body{
-    margin: 0px
-    padding: 0px
-    background: url(404 error fp.jpg)
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color:aquamarine;
+    color: #19f7cb 
+}
+
+}
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 8rem;
+    color: #0a1208;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+a {
+    display: inline-block;
+    padding: 12px 24px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff6b6b;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+
+    a:hover {
+        background-color: #ff4c4c;
 }
