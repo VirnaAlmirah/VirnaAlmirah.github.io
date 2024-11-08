@@ -20,5 +20,14 @@ h1{
     -webkit-background-clip: text;
 }
 h2{
-    
+    margin-top: 20px;
+    font-size: 2vw;
+    letter-spacing: 5px;
+}
+button {
+    margin-bottom: 40px;
+    border: 0px;
+    background-color: #fff;
+    border-radius: 20px;
+    height: 40px;
 }
